@@ -4,7 +4,8 @@
   "description": "",
   "dependencies": {
     "spinal-env-viewer-plugin-dashboard-standard": "git+https://github.com/spinalcom/spinal-env-viewer-plugin-dashboard-standard.git",
-    "spinal-env-viewer-plugin-heatmap": "https://github.com/spinalcom/spinal-env-viewer-plugin-heatmap.git"
+    "spinal-env-viewer-plugin-heatmap": "https://github.com/spinalcom/spinal-env-viewer-plugin-heatmap.git",
+    "spinal-env-viewer-plugin-dashboard-panel": "https://github.com/spinalcom/spinal-env-viewer-plugin-dashboard-panel.git"
   },
   "main": "index.js",
   "scripts": {
